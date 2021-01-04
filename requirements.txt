@@ -1,2 +1,7 @@
 qiskit
 jupiter notebook
+numpy
+
+# for output="mpl"
+matplotlib
+pylatexenc
